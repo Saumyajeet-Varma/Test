@@ -1,1 +1,1 @@
-# Test
+# Test for CE Bootcamp Homepage
